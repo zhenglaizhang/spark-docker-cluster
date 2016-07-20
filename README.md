@@ -10,3 +10,6 @@ Some updates as below:
 # Disclosure
 
 Since I decide to add more big data / ML related stuff to the same instance, so I decided to start from one new repo instead of the fork from upstream
+
+# TODO
+Rebuid the docker image with hive support
